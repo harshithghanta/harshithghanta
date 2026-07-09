@@ -6,8 +6,8 @@ Quantitative finance, math, and code. Senior at South Fayette HS.
 Options pricing, ML-driven trading systems, and prediction markets.
 
 ## Experience
-- **CMU AI/ML Intern** (Summer 2026) — Built [X models] for [problem]; now adapting them to financial modeling. [link]
-- **Federated Hermes Intern** (Summer 2025) — Researched AI applications in finance; presented findings on risk management frameworks. [link if any]
+- **CMU AI/ML Intern** (Summer 2026) — Built Forgetting Curve App for students; based on psychological principles; now adapting them to financial modeling.
+- **Federated Hermes Intern** (Summer 2025) — Researched AI applications in finance; presented findings on risk management frameworks. 
 - **Real estate consulting** — Advised a local investor and modernized Airbnb properties.
 
 
