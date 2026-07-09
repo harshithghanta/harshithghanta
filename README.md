@@ -1,8 +1,15 @@
-## Hi I'm Harshith!
-I'm a 17 year old interesting in quantitative finance. I enjoy math and coding, and I'm finishing up my senior year at South Fayette High School. 
+# Hi, I'm Harshith 👋
 
-## Current Projects
-I'm currently working on a Kalshi trading algorithm that uses Machine Learning to predict events in Sports, Bitcoin prices, and other events.
+Quantitative finance, math, and code. Senior at South Fayette HS.
+
+## Focus
+Options pricing, ML-driven trading systems, and prediction markets.
+
+## Experience
+- **CMU AI/ML Intern** (Summer 2026) — Built [X models] for [problem]; now adapting them to financial modeling. [link]
+- **Federated Hermes Intern** (Summer 2025) — Researched AI applications in finance; presented findings on risk management frameworks. [link if any]
+- **Real estate consulting** — Advised a local investor and modernized Airbnb properties.
 
 
-
+## Reach me
+[harshith.krishna.g@gmail.com] · [[LinkedIn](https://www.linkedin.com/in/harshith-ghanta-a7598a375/)]
