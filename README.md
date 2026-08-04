@@ -1,6 +1,6 @@
 # Hi, I'm Harshith 👋
 
-Quantitative finance, math, and code. Senior at South Fayette HS.
+Quantitative finance, math, physics, and code. Senior at South Fayette HS.
 
 ## Focus
 Options pricing, ML-driven trading systems, and prediction markets.
