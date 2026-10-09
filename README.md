@@ -5,13 +5,6 @@ Senior @ South Fayette HS · Pittsburgh, PA
 
 ---
 
-### Projects
-
-| Project | What it is | Stack | Status |
-|---|---|---|---|
-| **[Walking-App](https://github.com/harshithghanta/Walking-App-MMIOT)** | Orientation-independent real-time pedometer PWA from raw phone accelerometer data; ~1–5% error on simulated walks. | JavaScript | Course project |
-| **[META Glasses](https://github.com/harshithghanta/META_GLASSES_MMIOT)** | Activity-recognition assistant for Meta Ray-Ban Display (ImageBind backend). | Swift, Python | Course project |
-
 ### Experience
 
 - **CMU — AI/ML Intern** (Summer 2026): Built a spaced-repetition "forgetting curve" app with per-user ML scheduling; built a facial-palsy rehab app with user-calibrated muscle tracking.
@@ -20,7 +13,7 @@ Senior @ South Fayette HS · Pittsburgh, PA
 
 ### Toolkit
 
-`Python` `NumPy` `pandas` `SciPy` `scikit-learn` `JavaScript` `Swift` `Git`
+`Python` `NumPy` `pandas` `SciPy` `scikit-learn` `Git`
 
 ### Contact
 
